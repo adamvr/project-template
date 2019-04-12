@@ -4,8 +4,6 @@
 
 The version history is motivated by https://semver.org/ and https://keepachangelog.com/en/1.0.0/ .
 
-NOTE: This project went from non-standard versioning to semver at some point.
-
 ## Structure
 
 Types of changes that can be seen in the changelog
