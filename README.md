@@ -1,5 +1,6 @@
 ![Code coverage](https://codecov.io/gh/sumup/foundry/branch/master/graph/badge.svg?token=<codecov-token>)
 [![License](https://img.shields.io/badge/license--lightgrey.svg)](https://github.com/sumup-oss/<repo-name>/LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 <div align="center">
 
